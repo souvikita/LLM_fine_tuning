@@ -1,0 +1,3 @@
+Run,Checkpoint,GSM8K Accuracy,Correct
+All Layers (0-27),./qwen-gsm8k-lora-all-final,42.0%,42/100
+Late Layers (14-27),./qwen-gsm8k-lora-late-final,40.0%,40/100

@@ -1,0 +1,3 @@
+run,checkpoint,mmlu_acc,n,n_shot,delta_vs_full
+full_lora,./qwen-gsm8k-lora-all-final,0.446,500,0,0.0
+late_lora_14_27,./qwen-gsm8k-lora-late-final,0.534,500,0,0.08800000000000002
